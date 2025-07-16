@@ -1,0 +1,4 @@
+File: CPRAM_Concept_Claim.pdf  
+SHA-256: 9a10c39bbf6fa208ec5d5ce94abfcf1c1307434fd43c90b767f96d05cd57dedb  
+Created: July 16, 2025  
+Author/Alias: CreatedNull (GitHub: happycrazy198)
